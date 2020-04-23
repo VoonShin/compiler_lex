@@ -7,7 +7,9 @@
 ### myscanner is used to check before judge and also check for each input.
         ./myscanner <input/"input_filename"
       
-## Evironment : Linux Ubuntu 16-04
+### Evironment : Linux Ubuntu 16-04
+
+![image](https://github.com/VoonShin/compiler_lex/blob/master/result.png)
 
 
 
