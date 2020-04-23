@@ -2,12 +2,12 @@
 
 ### Steps:  1. make
 ###         2. python3 judge/jugde.py
-### ** use python3 judge/judge.py -v 1 for another version
+#### ** use python3 judge/judge.py -v 1 for another version
 
 ### myscanner is used to check before judge and also check for each input.
         ./myscanner <input/"input_filename"
       
 ## Evironment : Linux Ubuntu 16-04
 
-/home/f74057099/Pictures/Screenshot from 2020-04-23 14-13-17.png
+
 
